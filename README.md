@@ -1,7 +1,7 @@
  1. 运行环境
 操作系统：Windows 10/11
-Python 版本：Python 3.10 及以上（你当前是 3.14 可用）
-硬件需求：显卡显存 ≥ 8GB（你的 RTX 5070Ti 完美适配）
+Python 版本：Python 3.10 及以上
+硬件需求：显卡显存 ≥ 8GB
 本地模型：Qwen-7B（通过 Ollama 运行）
 2. 依赖安装
 由于使用本地 Ollama 服务，只需安装 requests 即可：
