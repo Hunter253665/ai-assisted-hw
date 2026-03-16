@@ -30,3 +30,6 @@ AI: 生成式AI大模型结合知识库与AI Agent的知识挖掘方案，主要
 
 你: quit
 👋 再见！
+
+运行成功截图：<img width="10" height="7" alt="image" src="https://github.com/user-attachments/assets/9a7f7f14-e702-4887-9b02-2c7dbf19f281" />
+
