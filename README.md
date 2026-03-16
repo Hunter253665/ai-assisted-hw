@@ -21,3 +21,12 @@ ollama serve
 bash
 运行
 python chatbot.py
+5. 示例输入 / 输出
+plaintext
+✅ 本地 Qwen-7B Chatbot 已启动（输入 'quit' 退出）
+
+你: 介绍一下生成式AI大模型结合知识库与AI Agent的知识挖掘方案
+AI: 生成式AI大模型结合知识库与AI Agent的知识挖掘方案，主要围绕“检索-生成”流程展开。其核心思路是将外部知识库向量化，通过检索相关上下文增强大模型的回答能力，有效减少幻觉并提升信息准确性。
+
+你: quit
+👋 再见！
